@@ -1,0 +1,17 @@
+[
+    {"label": "Tamarix Ramosissima 1", "depth": "0-6", "pH": 8.0, "Nitrogen": 4, "Phos": 6, "Potassium": 6},
+    {"label": "Tamarix Ramosissima 1", "depth": "6-12", "pH": 8.0, "Nitrogen": 1, "Phos": 5, "Potassium": 5},
+    {"label": "Tamarix Ramosissima 1", "depth": "12-18", "pH": 8.0, "Nitrogen": 1, "Phos": 4, "Potassium": 3},
+    
+    {"label": "Tamarix Ramosissima 2", "depth": "0-6", "pH": 8.0, "Nitrogen": 1, "Phos": 6, "Potassium": 4},
+    {"label": "Tamarix Ramosissima 2", "depth": "6-12", "pH": 8.0, "Nitrogen": 1, "Phos": 1, "Potassium": 4},
+    {"label": "Tamarix Ramosissima 2", "depth": "12-18", "pH": 7.5, "Nitrogen": 1, "Phos": 4, "Potassium": 4},
+    
+    {"label": "Populus Wislizeni 1", "depth": "0-6", "pH": 8.0, "Nitrogen": 1, "Phos": 6, "Potassium": 5},
+    {"label": "Populus Wislizeni 1", "depth": "6-12", "pH": 8.0, "Nitrogen": 1, "Phos": 4, "Potassium": 2},
+    {"label": "Populus Wislizeni 1", "depth": "12-18", "pH": 7.0, "Nitrogen": 1, "Phos": 2, "Potassium": 4},
+    
+    {"label": "Populus Wislizeni 2", "depth": "0-6", "pH": 8.0, "Nitrogen": 1, "Phos": 6, "Potassium": 6},
+    {"label": "Populus Wislizeni 2", "depth": "6-12", "pH": 7.5, "Nitrogen": 2, "Phos": 5, "Potassium": 3},
+    {"label": "Populus Wislizeni 2", "depth": "12-18", "pH": 7.5, "Nitrogen": 1, "Phos": 5, "Potassium": 3}
+]
